@@ -4,4 +4,4 @@ My website made in some shitty NodeJS lol. I used Portal Miiverse CSS from <a hr
 # Anything else?
 ~~Nope, it's all good.~~
 
-Nevermind, there is a license which means you can use the code but not the assets. Also, I didn't finish the website yet so I do not recommend you to go and use it. There are missing HTML files, plus I'm really bad at NodeJS lol.
+Nevermind. I'm using Apache License 2.0 which means you can use the code but not the assets. Also, I didn't finish the website yet so I do not recommend you to go and use it (even when it's going to be finished i recommend you to not lmfao). There are missing HTML files, plus I'm really bad at NodeJS lol.
