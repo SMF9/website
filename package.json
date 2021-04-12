@@ -1,0 +1,6 @@
+{
+  "name": "smf9",
+  "version": "1.0",
+  "description": "Hello! Welcome on my Own Website.",
+  "main": "./src/server"
+}
